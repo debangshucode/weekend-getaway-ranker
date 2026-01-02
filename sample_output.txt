@@ -1,0 +1,23 @@
+Top weekend getaways from Kolkata:
+                    name  google_review_rating  time_needed_to_visit_in_hrs  final_score
+           Howrah Bridge                   4.6                          0.5     0.958156
+Dakshineswar Kali Temple                   4.7                          1.0     0.838333
+       Victoria Memorial                   4.6                          1.5     0.772789
+    Kalighat Kali Temple                   4.4                          1.0     0.732801
+              Belur Math                   4.7                          1.5     0.717500
+
+Top weekend getaways from Delhi:
+        name  google_review_rating  time_needed_to_visit_in_hrs  final_score
+  India Gate                   4.6                          0.5     0.980000
+ Qutub Minar                   4.5                          1.0     0.765631
+    Red Fort                   4.5                          2.0     0.740631
+Lotus Temple                   4.5                          1.0     0.719381
+Lodhi Garden                   4.5                          1.0     0.706689
+
+Top weekend getaways from Mumbai:
+                                          name  google_review_rating  time_needed_to_visit_in_hrs  final_score
+                              Gateway of India                   4.6                          1.0     0.943333
+                                  Marine Drive                   4.5                          2.0     0.720000
+                          Siddhivinayak Temple                   4.8                          2.0     0.707500
+                              Mahalaxmi Temple                   4.7                          1.0     0.679167
+Chhatrapati Shivaji Maharaj Vastu Sangrahalaya                   4.6                          1.0     0.628151
